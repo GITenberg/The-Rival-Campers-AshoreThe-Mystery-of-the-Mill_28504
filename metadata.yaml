@@ -1,0 +1,33 @@
+_repo: The-Rival-Campers-AshoreThe-Mystery-of-the-Mill_28504
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Gowing, Louis D.
+    alias: Gowing, L. D. (Louis D.)
+    gutenberg_agent_id: '40603'
+    url: http://www.gutenberg.org/2009/agents/40603
+covers:
+- cover_type: archival
+  image_path: 28504-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Smith, Ruel Perley
+    birthdate: 1869
+    deathdate: 1937
+    gutenberg_agent_id: '33372'
+    url: http://www.gutenberg.org/2009/agents/33372
+description: ''
+gutenberg_issued: '2009-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28504'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Boats and boating -- Juvenile fiction'
+- !lcsh 'Detective and mystery stories'
+title: The Rival Campers Ashore; or, The Mystery of the Mill
+url: http://www.gutenberg.org/ebooks/28504
