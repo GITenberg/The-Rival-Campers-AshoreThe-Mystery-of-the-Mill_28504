@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '33372'
     url: http://www.gutenberg.org/2009/agents/33372
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28504#The-Rival-Campers-AshoreThe-Mystery-of-the-Mill
 gutenberg_issued: '2009-04-05'
 gutenberg_type: Text
 identifiers:
